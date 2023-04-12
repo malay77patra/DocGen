@@ -1,3 +1,9 @@
 {
-  "API_KEY": "sk-1OXRkURl8qejMIuBjjycT3BlbkFJccOliGMilMj"
+  "username": "your usernsme",
+  "pat":"your personal access token generated from github",
+  "API_KEY": "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",
+  "import_prompt": "Explain each modules of given list of import statements from a big script file in markdown format, use different symbols to make look nice, must include small headins ##\ngiven:\n",
+  "variable_prompt": "Explain each variables of given list of declearations from a big script file in markdown format, use different symbols to make look nice, must include small headins ##, explain the use of operators used, and data type of variable \ngiven:\n",
+  "function_prompt": "Please explain in detailsthe following function in Markdown format which is a part of a big script file. You should include ## headings, function name, introduction, all the parameters, working, all input and outpu, examples, use different type of symbols and indent to respresent it nicely, any extra data if needed \nGiven function:\n",
+  "class_prompt": "Please explain in detailsthe following class in Markdown format which is a part of a big script file. You should include ## headings, introduction, all the parameters, all functions, examples, all input and outpu,uae different type of symbols and indent to respresent it nicely, any extra data if needed \nGiven class:\n"
 }
