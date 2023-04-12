@@ -8,6 +8,8 @@ class RespectableApi(name):
 
     SALE_ACTION = 'sales'
     REFUND_ACTION = 'refunds'
+    def __init__(self, name):
+        self.name = name
 
     def sale(self, payment_card_details, amount):
         params = self._get_sale_params(payment_card_details, amount)
