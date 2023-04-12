@@ -3,7 +3,7 @@ class RespectableApiException(Exception):
     pass
 
 
-class RespectableApi:
+class RespectableApi(name):
     BASE_URL = settings.RESPECTABLE_API_BASE_URL
 
     SALE_ACTION = 'sales'
