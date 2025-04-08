@@ -13,8 +13,7 @@
 
 - 🔍 **Full Repository Analysis** — Scans your entire project structure
 - 🧠 **Context-Aware Documentation** — Uses LangChain and GPT-4 to understand and explain code
-- ⚙️ **Customizable Output** — Tailor the documentation style and structure to your needs
-- 💡 **Zero Config Start** — Get started with a single command
+- ⚙️ **Navigation Generation** — Easy to navigate links are generated within folders.
 - 🧾 **Markdown Ready** — Outputs clean, readable `.md` files
 
 ---
